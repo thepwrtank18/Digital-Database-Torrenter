@@ -38,7 +38,7 @@ But this file won't be uploaded to your drive until you have that much space in 
 
 2. **Downloading missing files without re-downloading whole torrent**: If somehow some files are missing try to re-download torrent (just by re-running the cell). Fastresume will check files.
 
-For more questions check [existing issues](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/issues) or [open a new one](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/issues/new)
+
 
 
 
